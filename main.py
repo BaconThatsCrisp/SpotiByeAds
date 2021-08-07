@@ -63,5 +63,5 @@ if __name__ == '__main__':
     spotifyAccessScope = "user-read-currently-playing"
     spotifyRedirectURI = "http://localhost:8080/"
 
-    main(spotifyUsername, spotifyAccessScope, spotifyClientID, spotifyClientSecret, spotifyRedirectURI, PATH)
+    main(CrispyBacon, spotifyAccessScope, d140b7e8faff46d7a6a29a1a86a4bd36, a63fbb82414c4b5183df2db42daf6370, spotifyRedirectURI, PATH)
 
